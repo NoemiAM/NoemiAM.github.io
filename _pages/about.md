@@ -2,25 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: Physicist + machine-learner. PhD student at GRAPPA Institute (University of Amsterdam).
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# news: false  # includes a list of news items
+# latest_posts: false  # includes a list of the newest posts
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am currently a PhD student at the [Gravitation and Astroparticle Physics Amsterdam (GRAPPA) Institute](https://www.grappa.amsterdam), affiliated with the [Department of Physics at the University of Amsterdam](https://iop.uva.nl). I enjoy doing research at the intersection of astrophysics, cosmology, and particle physics using modern statistics and machine learning techniques in order to improve our understanding of the dark Universe.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+---
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research Interests:**
+Complex astrophysical and cosmological datasets at various observable scales have the potential to revolutionize our understanding of the Universe and lead the way for new physics searches. My work uses probabilistic machine learning -- in particular simulation-based inference, generative modeling, and statistics -- to alleviate the challenges facing the fields of astrophysics and cosmology in light of the fload of high-quality data from current and future observatories. 
+Specifically, I have mainly been developing techniques to analyze dark matter substructures in strong gravitational lensing systems ([1](https://arxiv.org/abs/2205.09126), [2](https://arxiv.org/abs/2209.09918), [3](https://arxiv.org/abs/2211.04365)). Moreover, I've recently got interested in point source analyses in sky-maps ([1](https://arxiv.org/abs/2211.04291)). I also enjoy working on use-inspired method development, in particular sequential simulation-based inference ([1](https://arxiv.org/abs/2308.08597)).
+
+**CV:**
+A copy of my CV can be found [here](/assets/pdf/CV.pdf).
+
+**Papers:** 
+Papers can be found on [INSPIRE](https://inspirehep.net/authors/2085617), [arXiv](https://arxiv.org/a/anaumontel_n_1.html), or [Google Scholar](https://scholar.google.com/citations?hl=en&user=5YPLrhoAAAAJ).
+
+<!-- **Code:** 
+Code associated with some of my projects can be found on [GitHub](https://github.com/NoemiAM). -->
+
+---

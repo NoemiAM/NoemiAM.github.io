@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://NoemiAM.github.io/sitemap.xml
+Sitemap: https://noemiam.github.io/sitemap.xml

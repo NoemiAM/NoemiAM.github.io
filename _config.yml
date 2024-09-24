@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Noemi
 middle_name: 
 last_name: Anau Montel
-email: n.anaumontel@uva.com
+email: noemi.anaumontel@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Noemi's personal website.
 footer_text: >
@@ -53,7 +53,7 @@ twitter_username: AnauNoemi # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 5YPLrhoAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: 0000-0001-8985-7534 # your ORCID ID
 medium_username: # your Medium username
@@ -245,17 +245,6 @@ scholar:
   group_by: year
   group_order: descending
 
-# badges: # Display different badges for your publications
-#   altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-#   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
-
-# Filter out certain bibtex entry keywords used internally from the bib output
-# filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
-
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
-# max_author_limit: 3  # leave blank to always show all authors
-# more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
-
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -294,9 +283,9 @@ external_links:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)

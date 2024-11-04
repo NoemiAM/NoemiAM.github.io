@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hi I'm Noemi! I'm currently a PhD student at the [Gravitation and Astroparticle Physics Amsterdam (GRAPPA) Institute](https://www.grappa.amsterdam), affiliated with the [Department of Physics at the University of Amsterdam](https://iop.uva.nl). I enjoy doing research at the intersection of astrophysics, cosmology, and particle physics using modern statistics and machine learning techniques in order to improve our understanding of the dark Universe.
+Hi I'm Noemi! I'm currently a postdoc fellow at the [Max-Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de). Previously, I did a PhD at the [Gravitation and Astroparticle Physics Amsterdam (GRAPPA) Institute](https://www.grappa.amsterdam), affiliated with the [Department of Physics at the University of Amsterdam](https://iop.uva.nl). I enjoy doing research at the intersection of astrophysics, cosmology, and particle physics using modern statistics and machine learning techniques in order to improve our understanding of the dark Universe.
 
 ---
 
